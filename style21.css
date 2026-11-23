@@ -114,4 +114,8 @@ footer {
     section {
         padding: 15px;
     }
+
+    video {
+        height: 250px;
+    }
 }
